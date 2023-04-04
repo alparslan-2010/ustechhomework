@@ -65,7 +65,7 @@ switch (ay) {
 
 
 
-// let month= "mart";
+// let month= "1";
 // let day = 12;
 
 // if (month=="mart" && day<20 ){
